@@ -22,6 +22,22 @@ It compares:
 
 Great for learning how to speed up CPU-intensive tasks like image manipulation in Node.js.
 
+## Performance Results
+
+==============================
+NORMAL PROCESSING
+==============================
+Total time: 7622ms (7.62s)
+Average image time: (762ms)
+==============================
+
+==============================
+MULTI THREADING PROCESSING
+==============================
+Total time: 2677ms (2.68s)
+Average image time: (268ms)
+==============================
+
 ## Features
 
 - Parallel image processing with Worker Threads
