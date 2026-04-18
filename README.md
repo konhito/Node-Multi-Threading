@@ -1,6 +1,8 @@
 <div align="center">
-  <h1>Node Multi-Threading Demo</h1>
+  <h1>Node Multi-Threading </h1>
   <img src="https://c.tenor.com/i1mtd-XCEj8AAAAC/tenor.gif" width="300" alt="Multi-threading" />
+    <img src="https://c.tenor.com/i1mtd-XCEj8AAAAC/tenor.gif" width="300" alt="Multi-threading" />
+      <img src="https://c.tenor.com/i1mtd-XCEj8AAAAC/tenor.gif" width="300" alt="Multi-threading" />
   
   **A simple demonstration of using Worker Threads in Node.js for parallel image processing**
 
