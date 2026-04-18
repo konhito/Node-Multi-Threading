@@ -24,19 +24,19 @@ Great for learning how to speed up CPU-intensive tasks like image manipulation i
 
 ## Performance Results
 
-==============================
-NORMAL PROCESSING
-==============================
-Total time: 7622ms (7.62s)
-Average image time: (762ms)
-==============================
+==============================<br>
+NORMAL PROCESSING<br>
+==============================<br>
+Total time: 7622ms (7.62s)<br>
+Average image time: (762ms)<br>
+==============================<br>
 
-==============================
-MULTI THREADING PROCESSING
-==============================
-Total time: 2677ms (2.68s)
-Average image time: (268ms)
-==============================
+==============================<br>
+MULTI THREADING PROCESSING<br>
+==============================<br>
+Total time: 2677ms (2.68s)<br>
+Average image time: (268ms)<br>
+==============================<br>
 
 ## Features
 
